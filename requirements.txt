@@ -1,0 +1,8 @@
+trimesh
+shapely
+numpy
+scipy
+scikit-image
+networkx
+rtree
+matplotlib
